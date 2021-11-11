@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: 2fe27defedaae7441ba33c22c8872833
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable:
+  - first:
+      74: -623603649343465320
+    second: Scene
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aguja
+    second: {fileID: 2100000, guid: 207466d6a8060ec4faca6f65775e5f9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CaissonMat
+    second: {fileID: 2100000, guid: 43413ad2fa35aca4cacd7eb3f52f3e5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Compresor
+    second: {fileID: 2100000, guid: 2cc4647005a575a458776db29a12dfc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CompresorRejilla
+    second: {fileID: 2100000, guid: 2cc4647005a575a458776db29a12dfc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GomaMat
+    second: {fileID: 2100000, guid: dfe4a5c65c4904c45872e6397cbd91f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GruaF5Belfi
+    second: {fileID: 2100000, guid: 9f4ca967779b862449551de4ba83bb80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GruaF5BelfiMat
+    second: {fileID: 2100000, guid: 9f4ca967779b862449551de4ba83bb80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GuiaHincaMat.F5
+    second: {fileID: 2100000, guid: 9f4ca967779b862449551de4ba83bb80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JackUp
+    second: {fileID: 2100000, guid: a6d91af01ec565945bc17b7b3d24c9aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_LosetaHormigon
+    second: {fileID: 2100000, guid: 8e3a97e288dab8a4ebb7f00622c16f69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalAmarillo
+    second: {fileID: 2100000, guid: 05eec45746548aa439dd2972c861cd2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalAmarillo.001
+    second: {fileID: 2100000, guid: 60b6e0267c345c14c8eeca4929bfa3c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalCorrugado
+    second: {fileID: 2100000, guid: d9984e5e414fc054a97b72425c0805f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalGris
+    second: {fileID: 2100000, guid: 38aabdc37a229d84c8c0d297ed6660bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalGris.001
+    second: {fileID: 2100000, guid: 38aabdc37a229d84c8c0d297ed6660bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalNegro
+    second: {fileID: 2100000, guid: fe106c62203b4b84ba5e7ac173f09b6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalOxidado
+    second: {fileID: 2100000, guid: 29096dbdfc8ba2b409ac45fc20b9baa2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalRojo
+    second: {fileID: 2100000, guid: 8b5c736f8c5ed3b48bdd9262d6ea3b29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalSalaElec
+    second: {fileID: 2100000, guid: 2e8aeeec130cde34eb4ae771e67c6d66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalSalaElec.001
+    second: {fileID: 2100000, guid: 2e8aeeec130cde34eb4ae771e67c6d66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PiloteRellenoMat
+    second: {fileID: 2100000, guid: d1fa5b1fe5ae900498c6f8a54d0da2ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PilotesMat
+    second: {fileID: 2100000, guid: 01d164e91d7087b40b600de43398a6ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PilotesMat.001
+    second: {fileID: 2100000, guid: 01d164e91d7087b40b600de43398a6ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PilotesMat.002
+    second: {fileID: 2100000, guid: 01d164e91d7087b40b600de43398a6ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlatEquipos
+    second: {fileID: 2100000, guid: 83784c3f903ef844db15bfae66086bdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlatEquipos.001
+    second: {fileID: 2100000, guid: 83784c3f903ef844db15bfae66086bdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlatEquiposMat
+    second: {fileID: 2100000, guid: 83784c3f903ef844db15bfae66086bdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RejillaMat
+    second: {fileID: 2100000, guid: d4547e26c7164184b81c013bb920b5d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RejillaMat.001
+    second: {fileID: 2100000, guid: d4547e26c7164184b81c013bb920b5d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SoldaduraMat
+    second: {fileID: 2100000, guid: c9cdc6e1041950348bb747036ba27e6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TextosMat
+    second: {fileID: 2100000, guid: ce25ef775c94608448b3d5136d049daa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VidrioMat
+    second: {fileID: 2100000, guid: 197f53ecdf16df34596850b590367c87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VigaCepMat
+    second: {fileID: 2100000, guid: 7cf015c7f79b491448ac92c5caf4cab7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VigaCepMat.001
+    second: {fileID: 2100000, guid: 7cf015c7f79b491448ac92c5caf4cab7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VigaCepMat.002
+    second: {fileID: 2100000, guid: 7cf015c7f79b491448ac92c5caf4cab7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VigaProyectoMat
+    second: {fileID: 2100000, guid: adb91941af0878a4aa745a8adbd5ed7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VigasRodadoMat
+    second: {fileID: 2100000, guid: adb91941af0878a4aa745a8adbd5ed7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VigasRodadoMat.F5
+    second: {fileID: 2100000, guid: adb91941af0878a4aa745a8adbd5ed7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rejilla.001
+    second: {fileID: 2100000, guid: d4547e26c7164184b81c013bb920b5d5, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
