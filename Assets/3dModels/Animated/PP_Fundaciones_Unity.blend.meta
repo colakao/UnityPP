@@ -6,17 +6,7 @@ ModelImporter:
   - first:
       74: -623603649343465320
     second: Scene
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Hormigon.002
-    second: {fileID: 2100000, guid: 5332de8171d586544b54aaa503bb5617, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Metal.001
-    second: {fileID: 2100000, guid: e3de3d96a4bb47946bc4981f9ba6ef3a, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
