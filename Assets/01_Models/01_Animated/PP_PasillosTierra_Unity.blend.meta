@@ -6,17 +6,7 @@ ModelImporter:
   - first:
       74: -623603649343465320
     second: Scene
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Viga
-    second: {fileID: 2100000, guid: 6083722c98557d94c806f5dfd11995f3, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: barandas
-    second: {fileID: 2100000, guid: c927e07492c338640a06f6b9b99346b8, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0

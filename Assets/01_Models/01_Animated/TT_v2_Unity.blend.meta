@@ -6,107 +6,7 @@ ModelImporter:
   - first:
       74: -623603649343465320
     second: Scene
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Color_009
-    second: {fileID: 2100000, guid: 806a5c3f861873946aa4d62f4ab88ef7, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: CraneMat
-    second: {fileID: 2100000, guid: d3e392257c013f64a807cb184e6394c4, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: GruaAmarillo
-    second: {fileID: 2100000, guid: 6e875fecd9d67714f9ddbc916060c248, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: MISCELLANEOUS_COMERCIAL
-    second: {fileID: 2100000, guid: ae8a46d17669fad409fcc8213e5c5c6a, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.003
-    second: {fileID: 2100000, guid: 40d0a54fa28a04d4599aec0d295f392b, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.004
-    second: {fileID: 2100000, guid: 8fbad6e047cede247aca6427ac60c9b0, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Metal
-    second: {fileID: 2100000, guid: 0d9a7683f65950e4b8ba7b46be55ff3d, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Metal.003
-    second: {fileID: 2100000, guid: 217f652c6cd1cea478af0a37bb7e5186, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: MetalAma
-    second: {fileID: 2100000, guid: 8e8d98cddb804574d9e30b4ce60ff2c7, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: MetalCeleste
-    second: {fileID: 2100000, guid: 33f2833772c9dff45a4260d4410c902d, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: MetalCromado
-    second: {fileID: 2100000, guid: 279d45bc268a9be4499245b4c478f3e3, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Rejilla
-    second: {fileID: 2100000, guid: f036362d344ff6147a2266e288df95b7, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Rejilla.004
-    second: {fileID: 2100000, guid: 6c372aed55c08084e9ced41aa159f02b, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Rejilla.005
-    second: {fileID: 2100000, guid: 8d04029b217bd0c428cccabe246851d0, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Rejilla_Chica
-    second: {fileID: 2100000, guid: 389478b835796694cb4d31cd6e19a864, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: STEEL_A36
-    second: {fileID: 2100000, guid: e0337d278e1a1454a9edd618065efc80, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: STEEL_A53
-    second: {fileID: 2100000, guid: 4c17a6eb1634f1f4fa8c3438b4a84e16, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: STEEL_F436
-    second: {fileID: 2100000, guid: 31f0b7046e041954ab460e07e69c0ab0, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: STEEL_PPTT
-    second: {fileID: 2100000, guid: 313e02d129323ce4fb77492245101e65, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: transparentMat
-    second: {fileID: 2100000, guid: c9ecf277b007b1848b56c8f20b1db8f2, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -115,7 +15,7 @@ ModelImporter:
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
-    resampleCurves: 0
+    resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: 
     rigImportErrors: 
@@ -126,7 +26,7 @@ ModelImporter:
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
     importConstraints: 0
-    animationCompression: 0
+    animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
