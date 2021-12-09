@@ -112,12 +112,12 @@ Material:
     m_Floats:
     - AlphaMult: 38.7
     - Float_1: 0
-    - FoamDist: -2.97
+    - FoamDist: -3.63
     - FoamPanSpeed: 0.01
-    - FoamSt: 3.09
+    - FoamSt: 3.03
     - NormalSt2: 0.182
-    - ShallowGrad: 0.394
-    - ShallowScale: 1.68
+    - ShallowGrad: 0.401
+    - ShallowScale: 2.3
     - Smothness: 0.94
     - ThirdNormalSt: 0.329
     - TilingDIf: 1
@@ -129,7 +129,7 @@ Material:
     - Vector1_5DE38BA8: 0.134
     - Vector1_712C90A3: 30
     - Vector1_C8CD7BB7: 0.03
-    - Vector1_EBF894A3: 1.1
+    - Vector1_EBF894A3: 0.65
     - Vector1_F8D9205E: 0.2
     - _AlphaClip: 0
     - _Blend: 0
