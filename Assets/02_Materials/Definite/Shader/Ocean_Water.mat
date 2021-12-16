@@ -105,8 +105,8 @@ Material:
     - Foam_Strength: 0.33
     - Foam_Tile: 1.26
     - Normal_Speed: 6.85
-    - Normal_Strength: -0.44
-    - Normal_Tile: 0.03
+    - Normal_Strength: -0.25
+    - Normal_Tile: 0.007
     - Smoothness: 0.8
     - Wave_Scale: 0.3
     - Wave_Speed: -4
@@ -139,10 +139,10 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - Depth_Color: {r: 0.08993414, g: 0.4433962, b: 0.41918397, a: 0}
+    - Depth_Color: {r: 0.22604138, g: 0.482, b: 0.47535172, a: 0}
     - Vector2: {r: 0.04, g: 0.22, b: 0, a: 0}
-    - Water_A: {r: 0.087219656, g: 0.3048238, b: 0.3773585, a: 0}
-    - Water_B: {r: 0.050062314, g: 0.16053763, b: 0.23584908, a: 0}
+    - Water_A: {r: 0.16629584, g: 0.3490566, b: 0.34345856, a: 0}
+    - Water_B: {r: 0.08018868, g: 0.2694871, b: 0.3207547, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
