@@ -32,6 +32,10 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - Foam_Texture:
+        m_Texture: {fileID: 2800000, guid: ca1f38de1b8adb446a895eac97dc89b0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - Water_Normals:
         m_Texture: {fileID: 2800000, guid: e5a393edd0cc1864bb5979b29a49a5a6, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -94,12 +98,20 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - Normal_Speed: 2.4
-    - Normal_Strength: 0.73
+    - Depth: -32.7
+    - Depth_Strength: 0.02
+    - Foam_Distance: -0.61
+    - Foam_Speed: 0.09
+    - Foam_Strength: 0.33
+    - Foam_Tile: 1.26
+    - Normal_Speed: 6.85
+    - Normal_Strength: -0.44
     - Normal_Tile: 0.03
     - Smoothness: 0.8
-    - Wave_Scale: 1
-    - Wave_Tile: 1
+    - Wave_Scale: 0.3
+    - Wave_Speed: -4
+    - Wave_Strength: 0.75
+    - Wave_Tile: 7.52
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -127,7 +139,8 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - Vector2: {r: -0.06, g: 0.3, b: 0, a: 0}
+    - Depth_Color: {r: 0.08993414, g: 0.4433962, b: 0.41918397, a: 0}
+    - Vector2: {r: 0.04, g: 0.22, b: 0, a: 0}
     - Water_A: {r: 0.087219656, g: 0.3048238, b: 0.3773585, a: 0}
     - Water_B: {r: 0.050062314, g: 0.16053763, b: 0.23584908, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
