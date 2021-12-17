@@ -33,7 +33,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - Foam_Texture:
-        m_Texture: {fileID: 2800000, guid: ca1f38de1b8adb446a895eac97dc89b0, type: 3}
+        m_Texture: {fileID: 2800000, guid: 54fd0d450366b6c4b8fd3e521c2ed18b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Water_Normals:
@@ -100,17 +100,17 @@ Material:
     m_Floats:
     - Depth: -32.7
     - Depth_Strength: 0.02
-    - Foam_Distance: -0.61
-    - Foam_Speed: 0.09
-    - Foam_Strength: 0.33
-    - Foam_Tile: 1.26
+    - Foam_Distance: -1.18
+    - Foam_Speed: 0.4
+    - Foam_Strength: 1
+    - Foam_Tile: 4
     - Normal_Speed: 6.85
     - Normal_Strength: -0.25
     - Normal_Tile: 0.007
     - Smoothness: 0.8
     - Wave_Scale: 0.3
     - Wave_Speed: -4
-    - Wave_Strength: 0.75
+    - Wave_Strength: 1
     - Wave_Tile: 7.52
     - _AlphaClip: 0
     - _Blend: 0
