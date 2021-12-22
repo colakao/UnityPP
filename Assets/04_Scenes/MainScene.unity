@@ -1791,7 +1791,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 37.5
+  m_fontSize: 36.5
   m_fontSizeBase: 42.74
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -3931,11 +3931,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6445c6a65ae45e243b079941fcb79ee5, type: 3}
---- !u!4 &486888830 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 6445c6a65ae45e243b079941fcb79ee5, type: 3}
-  m_PrefabInstance: {fileID: 486888829}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &486888831 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 6445c6a65ae45e243b079941fcb79ee5, type: 3}
@@ -3960,6 +3955,11 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!4 &486888833 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 6445c6a65ae45e243b079941fcb79ee5, type: 3}
+  m_PrefabInstance: {fileID: 486888829}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &498261242
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8476,7 +8476,7 @@ Transform:
   - {fileID: 1874588422}
   - {fileID: 1085095038}
   - {fileID: 906570944}
-  - {fileID: 486888830}
+  - {fileID: 486888833}
   m_Father: {fileID: 0}
   m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -13680,7 +13680,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 17.05
+  m_fontSize: 16.75
   m_fontSizeBase: 18
   m_fontWeight: 400
   m_enableAutoSizing: 1
