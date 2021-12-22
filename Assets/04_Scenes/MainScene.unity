@@ -1791,7 +1791,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 37.6
+  m_fontSize: 36.3
   m_fontSizeBase: 42.74
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -9807,6 +9807,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PP_24_CT1&CT2_Unity
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1d7356df1374d934083dd2e1f566b630, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1484870066574918665, guid: 1d7356df1374d934083dd2e1f566b630, type: 3}
       propertyPath: m_DirtyAABB
       value: 0
@@ -13745,7 +13749,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 17.1
+  m_fontSize: 16.7
   m_fontSizeBase: 18
   m_fontWeight: 400
   m_enableAutoSizing: 1
