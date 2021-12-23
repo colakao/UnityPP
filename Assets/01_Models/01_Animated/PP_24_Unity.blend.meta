@@ -6,7 +6,37 @@ ModelImporter:
   - first:
       74: -623603649343465320
     second: Scene
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rejilla
+    second: {fileID: 2100000, guid: 6c372aed55c08084e9ced41aa159f02b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rejilla.002
+    second: {fileID: 2100000, guid: 6c372aed55c08084e9ced41aa159f02b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RejillaPP
+    second: {fileID: 2100000, guid: 6c372aed55c08084e9ced41aa159f02b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: STEEL_A53
+    second: {fileID: 2100000, guid: c9eb13a5377f4cf4cb47fc01b61bcc5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: STEEL_Baranda
+    second: {fileID: 2100000, guid: c927e07492c338640a06f6b9b99346b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: STEEL_PP
+    second: {fileID: 2100000, guid: c9eb13a5377f4cf4cb47fc01b61bcc5f, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

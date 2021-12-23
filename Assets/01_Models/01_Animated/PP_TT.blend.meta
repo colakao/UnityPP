@@ -6,7 +6,47 @@ ModelImporter:
   - first:
       74: -623603649343465320
     second: Scene
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rejilla.001
+    second: {fileID: 2100000, guid: 6c372aed55c08084e9ced41aa159f02b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rejilla_Chica.001
+    second: {fileID: 2100000, guid: 6c372aed55c08084e9ced41aa159f02b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: STEEL_A36.001
+    second: {fileID: 2100000, guid: c9eb13a5377f4cf4cb47fc01b61bcc5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: STEEL_A53.001
+    second: {fileID: 2100000, guid: c9eb13a5377f4cf4cb47fc01b61bcc5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: STEEL_F436.001
+    second: {fileID: 2100000, guid: c9eb13a5377f4cf4cb47fc01b61bcc5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: STEEL_PPTT
+    second: {fileID: 2100000, guid: c9eb13a5377f4cf4cb47fc01b61bcc5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: STEEL_PPTT.002
+    second: {fileID: 2100000, guid: c9eb13a5377f4cf4cb47fc01b61bcc5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: STEEL_PPTT.003
+    second: {fileID: 2100000, guid: c9eb13a5377f4cf4cb47fc01b61bcc5f, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
