@@ -3989,6 +3989,26 @@ PrefabInstance:
       propertyPath: m_Quality
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 7002901398399067900, guid: 6445c6a65ae45e243b079941fcb79ee5, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7989502684889044256, guid: 6445c6a65ae45e243b079941fcb79ee5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.75470966
+      objectReference: {fileID: 0}
+    - target: {fileID: 7989502684889044256, guid: 6445c6a65ae45e243b079941fcb79ee5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7989502684889044256, guid: 6445c6a65ae45e243b079941fcb79ee5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.65605897
+      objectReference: {fileID: 0}
+    - target: {fileID: 7989502684889044256, guid: 6445c6a65ae45e243b079941fcb79ee5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8642167286041673460, guid: 6445c6a65ae45e243b079941fcb79ee5, type: 3}
       propertyPath: m_DirtyAABB
       value: 0
@@ -8027,7 +8047,7 @@ MonoBehaviour:
   - anim: {fileID: 1509503940}
     startFrame: 1
   - anim: {fileID: 2025791475}
-    startFrame: 3963
+    startFrame: 0
   - anim: {fileID: 906570946}
     startFrame: 4562
   - anim: {fileID: 1085095040}
