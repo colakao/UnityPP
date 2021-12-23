@@ -1741,7 +1741,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.000061035156, y: -60}
+  m_AnchoredPosition: {x: 0, y: -60}
   m_SizeDelta: {x: -146.683, y: 43.237}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &224075415
@@ -1791,7 +1791,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36.5
+  m_fontSize: 38.7
   m_fontSizeBase: 42.74
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -3714,7 +3714,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_RenderShadows: 1
-  m_RequiresDepthTextureOption: 2
+  m_RequiresDepthTextureOption: 1
   m_RequiresOpaqueTextureOption: 2
   m_CameraType: 0
   m_Cameras: []
@@ -5801,6 +5801,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PP_24_SoportesCorrea_Unity
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2dfcff7157cbdad41b3f34a9fcc77e66, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2dfcff7157cbdad41b3f34a9fcc77e66, type: 3}
 --- !u!4 &906570944 stripped
@@ -6976,6 +6980,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 5884e7cc3ee5be74da25430fafdf7373, type: 3}
       propertyPath: m_Name
       value: PP_TT
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5884e7cc3ee5be74da25430fafdf7373, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5884e7cc3ee5be74da25430fafdf7373, type: 3}
@@ -13680,7 +13688,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 16.75
+  m_fontSize: 31
   m_fontSizeBase: 18
   m_fontWeight: 400
   m_enableAutoSizing: 1

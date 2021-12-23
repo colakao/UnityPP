@@ -100,10 +100,10 @@ Material:
     m_Floats:
     - Depth: -32.7
     - Depth_Strength: 0.02
-    - Foam_Distance: -1.18
+    - Foam_Distance: -0.02
     - Foam_Speed: 0.4
     - Foam_Strength: 1
-    - Foam_Tile: 4
+    - Foam_Tile: 21
     - Normal_Speed: 6.85
     - Normal_Strength: -0.25
     - Normal_Tile: 0.007

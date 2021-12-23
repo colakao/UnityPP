@@ -6,7 +6,92 @@ ModelImporter:
   - first:
       74: -623603649343465320
     second: Scene
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GomaMat
+    second: {fileID: 2100000, guid: 875d172c4ec89ae4ba5ae6195bb7cca8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madera
+    second: {fileID: 2100000, guid: 79ef2b181a854394781cbd2dec9a667d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rejilla.003
+    second: {fileID: 2100000, guid: 2898f065571aca24aa932f3abb17a197, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VidrioMat
+    second: {fileID: 2100000, guid: 4aba79c1c19205047b8038a081bde066, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yagana_Amarillo
+    second: {fileID: 2100000, guid: bac831ad3f10d324b9c1442b9548fc24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yagana_Baranda
+    second: {fileID: 2100000, guid: edc34e8e8471dde4f8642d3f6a87fd1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yagana_CilindroGrua_Base
+    second: {fileID: 2100000, guid: f04e4b20bb03a7e429128f59aabdb89e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yagana_GrisOscuro
+    second: {fileID: 2100000, guid: 6606b078b6d8e694d9164b053e080b0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yagana_Heli
+    second: {fileID: 2100000, guid: cfe40020bbb522c468cb8686d026da5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yagana_Naranja
+    second: {fileID: 2100000, guid: 320970e839d1e68418e60f4c2ee3cec8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yagana_Negro
+    second: {fileID: 2100000, guid: 76052d95235197148a685d947cea8f0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yagana_RojoLogo
+    second: {fileID: 2100000, guid: 12d6eebdb00e7034ea9bf6e0c24315bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yagana_RojoOscuro
+    second: {fileID: 2100000, guid: 9974ffce41bc66341a0b0490985126db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yagana_Verde_Oscuro
+    second: {fileID: 2100000, guid: dd7ba4091c7c33240a40c4297db9ebc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yagana_azul
+    second: {fileID: 2100000, guid: d2b39983e3bbf154786aac0d5289b71a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yagana_caja
+    second: {fileID: 2100000, guid: f14a8a668daee0446bc6677b600e4a07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yagana_pallet
+    second: {fileID: 2100000, guid: 20af993f17cd66b418d2834c6091d7d1, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
