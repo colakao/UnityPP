@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 0.838
   m_CustomReflection: {fileID: 8900000, guid: cddd30fa7cc585947aa7778e669b70d6, type: 3}
   m_Sun: {fileID: 820764820}
-  m_IndirectSpecularColor: {r: 0.7579412, g: 0.7571548, b: 0.8101319, a: 0.838}
+  m_IndirectSpecularColor: {r: 0.7578981, g: 0.7571126, b: 0.8100955, a: 0.838}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -11967,6 +11967,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PP_Yagana_Unity
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 46d48884d4a481e47b7071f0678aa628, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 46d48884d4a481e47b7071f0678aa628, type: 3}
 --- !u!4 &1874588422 stripped
@@ -13157,6 +13161,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 61bc12fc3b717fe45a1b25c006e9a26a, type: 3}
       propertyPath: m_Name
       value: PP_CT03_Unity
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 61bc12fc3b717fe45a1b25c006e9a26a, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1667529441742330274, guid: 61bc12fc3b717fe45a1b25c006e9a26a, type: 3}
       propertyPath: m_DirtyAABB
