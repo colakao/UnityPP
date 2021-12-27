@@ -105,7 +105,7 @@ Material:
     - Foam_Strength: 1
     - Foam_Tile: 21
     - Normal_Speed: 6.85
-    - Normal_Strength: 0.1
+    - Normal_Strength: 0.8
     - Normal_Tile: 0.007
     - Smoothness: 0.61
     - Wave_Scale: 0.3
