@@ -3,12 +3,7 @@ guid: 651ff974cd127214cbd61054ae18f2d2
 ModelImporter:
   serializedVersion: 21100
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Viga
-    second: {fileID: 2100000, guid: 01a3010571834c347a9491c802ddcc33, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
