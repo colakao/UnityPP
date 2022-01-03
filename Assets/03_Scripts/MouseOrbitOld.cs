@@ -58,16 +58,21 @@ public class MouseOrbitOld : MonoBehaviour
 	Vector3 lastOffset;
 	Vector3 targetOffset;
 	float delta;
+	public bool debug;
 
 	void Start()
 	{
-		foreach (Transform t in viewFocus)
-		{
-			Debug.Log(t.position);
-		}
 		Initialize();
 		currentCamPos = viewFocus[0].transform.position;
 		SetViewFront(0);
+
+		if (debug) 
+		{
+			foreach (Transform t in viewFocus)
+			{
+				Debug.Log(t.position);
+			}
+		}
 	}
 
 	private void Initialize()
