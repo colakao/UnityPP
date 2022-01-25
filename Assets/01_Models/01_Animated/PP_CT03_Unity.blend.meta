@@ -16,72 +16,72 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Caucho.001
-    second: {fileID: 2100000, guid: e9138bb1efa043f4c843a85ccb0e4f18, type: 2}
+    second: {fileID: 2100000, guid: d63d564a3b766f146a40ad1496c6e4e8, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: CuerpoGrua
-    second: {fileID: 2100000, guid: 70b651a51804f734d97c0d0bcb8a4ae7, type: 2}
+    second: {fileID: 2100000, guid: 750ef28eaf739d44195dec60fd3d7d89, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Estructura
-    second: {fileID: 2100000, guid: 98b493eb8bdbeaa46868f181e6a06419, type: 2}
+    second: {fileID: 2100000, guid: 186d0692657720a42b7b528c6ed0f893, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Goma
-    second: {fileID: 2100000, guid: b5bf0d1b8f6109740b83b734280aab8d, type: 2}
+    second: {fileID: 2100000, guid: 77e3a1c8f0e458242ac01b67ae3a9fe8, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Grua
-    second: {fileID: 2100000, guid: 70f9039da5ff5584e87c306818e2d31d, type: 2}
+    second: {fileID: 2100000, guid: fda8875c00e83cf46966d077445bdb8a, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: HormigonCt3
-    second: {fileID: 2100000, guid: 5454a7122c1ec434e8f03f8811d2414a, type: 2}
+    second: {fileID: 2100000, guid: a4ed500c745328f4b87f06cf0b6e230e, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material.001
-    second: {fileID: 2100000, guid: 625f6ce29afbea94bad987cde0f164a8, type: 2}
+    second: {fileID: 2100000, guid: e75886abed2bf554480c0e232740d4ee, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material.002
-    second: {fileID: 2100000, guid: 64fd2d7db5bfc5a4e88cf7c3ab572e5a, type: 2}
+    second: {fileID: 2100000, guid: 4cff9d42706876a41a70fd6b6e726a91, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Metal
-    second: {fileID: 2100000, guid: 46350708bf784fa4ab2770cd3cb30da7, type: 2}
+    second: {fileID: 2100000, guid: e9d654ecba7635f438fbe79750db17ec, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: MetalAma.001
-    second: {fileID: 2100000, guid: 3d26a7c7267b824478d6b9de0973612e, type: 2}
+    second: {fileID: 2100000, guid: 8e8d98cddb804574d9e30b4ce60ff2c7, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: MetalCromado
-    second: {fileID: 2100000, guid: 52024b0c09b58b2468ed46ea0a0d2d80, type: 2}
+    second: {fileID: 2100000, guid: 279d45bc268a9be4499245b4c478f3e3, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: MetalCromado.001
-    second: {fileID: 2100000, guid: ce02bdecde5f845459a0ff90256f930e, type: 2}
+    second: {fileID: 2100000, guid: 279d45bc268a9be4499245b4c478f3e3, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: MetalCromado.002
-    second: {fileID: 2100000, guid: d169de39e289ea44299a33845e77991f, type: 2}
+    second: {fileID: 2100000, guid: 279d45bc268a9be4499245b4c478f3e3, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Negro.001
-    second: {fileID: 2100000, guid: 8a31d7032cc544e40914bf63a5de2e10, type: 2}
+    second: {fileID: -3233084663690078654, guid: 6445c6a65ae45e243b079941fcb79ee5, type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -106,22 +106,22 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Soportes
-    second: {fileID: 2100000, guid: b6fc103dbdf13c547888256fe8fb214e, type: 2}
+    second: {fileID: 2100000, guid: 8c6746fbca4e48344973b9ab39c2a155, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: TensorNegroCT3
-    second: {fileID: 2100000, guid: 3dae533f13e01fd4eab62e7ad8f30b50, type: 2}
+    second: {fileID: 2100000, guid: 04e823be25a80584089fb2768b610006, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Undefined_REF.002
-    second: {fileID: 2100000, guid: 37288946e81e7944a9e246ecdac76daf, type: 2}
+    second: {fileID: 2100000, guid: 806bd1d112b346a4ab1a2ba3901048e8, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Viga1400.001
-    second: {fileID: 2100000, guid: b644cad9efe9f9841a51269a8a73fdfe, type: 2}
+    second: {fileID: 2100000, guid: 796f84525fc7e6b439e99f29d2a40949, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

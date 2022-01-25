@@ -11,7 +11,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: GomaMat
-    second: {fileID: 2100000, guid: 875d172c4ec89ae4ba5ae6195bb7cca8, type: 2}
+    second: {fileID: 2100000, guid: 77e3a1c8f0e458242ac01b67ae3a9fe8, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -21,7 +21,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Rejilla.003
-    second: {fileID: 2100000, guid: 2898f065571aca24aa932f3abb17a197, type: 2}
+    second: {fileID: 2100000, guid: 6c372aed55c08084e9ced41aa159f02b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -36,7 +36,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Yagana_Baranda
-    second: {fileID: 2100000, guid: edc34e8e8471dde4f8642d3f6a87fd1d, type: 2}
+    second: {fileID: 2100000, guid: 76052d95235197148a685d947cea8f0c, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -76,7 +76,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Yagana_Verde_Oscuro
-    second: {fileID: 2100000, guid: dd7ba4091c7c33240a40c4297db9ebc4, type: 2}
+    second: {fileID: 2100000, guid: 76052d95235197148a685d947cea8f0c, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule

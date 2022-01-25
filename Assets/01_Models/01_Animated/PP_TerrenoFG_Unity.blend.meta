@@ -6,17 +6,7 @@ ModelImporter:
   - first:
       74: -623603649343465320
     second: Scene
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: GroundExtra
-    second: {fileID: 2100000, guid: 96a7cdd80a8ca3544b07103cce9fdbf3, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: PP_LP_Texture_u1_v1
-    second: {fileID: 2100000, guid: 05d4b3c5fdef674419686c2f1f33ebe4, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0

@@ -10,8 +10,48 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Hormigon
+    second: {fileID: 2100000, guid: 5454a7122c1ec434e8f03f8811d2414a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal.001
+    second: {fileID: -6478536213147159724, guid: 78317b5ad23db5244af772a014af83b2, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal.002
+    second: {fileID: -3846018093981099296, guid: 78317b5ad23db5244af772a014af83b2, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal.003
+    second: {fileID: -43674647212602634, guid: 78317b5ad23db5244af772a014af83b2, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalAma.001
+    second: {fileID: -3719061472159880388, guid: 78317b5ad23db5244af772a014af83b2, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalCeleste
+    second: {fileID: -8437740645013218655, guid: 78317b5ad23db5244af772a014af83b2, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PoleaMat
+    second: {fileID: -157942245330937887, guid: 78317b5ad23db5244af772a014af83b2, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Rejilla.001
-    second: {fileID: 2100000, guid: 6c372aed55c08084e9ced41aa159f02b, type: 2}
+    second: {fileID: -6128104834898047716, guid: 78317b5ad23db5244af772a014af83b2, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RejillaAmarilla
+    second: {fileID: 2100000, guid: bfe23fdfc5b6044438ff3310bfdaf54b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -21,17 +61,22 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: STEEL_A36.001
-    second: {fileID: 2100000, guid: c9eb13a5377f4cf4cb47fc01b61bcc5f, type: 2}
+    second: {fileID: -2525840669169805102, guid: 78317b5ad23db5244af772a014af83b2, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: STEEL_A36.002
+    second: {fileID: 5835193091482611333, guid: 78317b5ad23db5244af772a014af83b2, type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: STEEL_A53.001
-    second: {fileID: 2100000, guid: c9eb13a5377f4cf4cb47fc01b61bcc5f, type: 2}
+    second: {fileID: 7920447773655794696, guid: 78317b5ad23db5244af772a014af83b2, type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: STEEL_F436.001
-    second: {fileID: 2100000, guid: c9eb13a5377f4cf4cb47fc01b61bcc5f, type: 2}
+    second: {fileID: 2237681513844628300, guid: 78317b5ad23db5244af772a014af83b2, type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -55,7 +100,7 @@ ModelImporter:
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
-    resampleCurves: 0
+    resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: 
     rigImportErrors: 
@@ -66,7 +111,7 @@ ModelImporter:
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
     importConstraints: 0
-    animationCompression: 0
+    animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
