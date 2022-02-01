@@ -6,7 +6,42 @@ ModelImporter:
   - first:
       74: -623603649343465320
     second: Scene
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Estructura.001
+    second: {fileID: 2100000, guid: 186d0692657720a42b7b528c6ed0f893, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalCeleste
+    second: {fileID: 2100000, guid: 33f2833772c9dff45a4260d4410c902d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rejilla.001
+    second: {fileID: 2100000, guid: 6c372aed55c08084e9ced41aa159f02b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RejillaPP
+    second: {fileID: 2100000, guid: bfe23fdfc5b6044438ff3310bfdaf54b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RojoMetalFaena.001
+    second: {fileID: 2100000, guid: f847bb6a930c88546ad35029dcef1608, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: STEEL_PP
+    second: {fileID: 2100000, guid: 01a3010571834c347a9491c802ddcc33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Soportes.001
+    second: {fileID: 2100000, guid: 7bbc918d185312f4c82b679d9381e0b7, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

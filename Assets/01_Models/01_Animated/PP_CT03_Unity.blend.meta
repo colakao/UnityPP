@@ -81,7 +81,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Negro.001
-    second: {fileID: -3233084663690078654, guid: 6445c6a65ae45e243b079941fcb79ee5, type: 3}
+    second: {fileID: 2100000, guid: fe28eef8208352a4a95359a4dea2ed47, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -96,12 +96,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: STEEL_PP
-    second: {fileID: 2100000, guid: c9eb13a5377f4cf4cb47fc01b61bcc5f, type: 2}
+    second: {fileID: 2100000, guid: 01a3010571834c347a9491c802ddcc33, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: STEEL_PP.003
-    second: {fileID: 2100000, guid: c9eb13a5377f4cf4cb47fc01b61bcc5f, type: 2}
+    second: {fileID: 2100000, guid: 01a3010571834c347a9491c802ddcc33, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule

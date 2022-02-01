@@ -16,22 +16,27 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: CleveManga
-    second: {fileID: 2711025029047869144, guid: 78317b5ad23db5244af772a014af83b2, type: 3}
+    second: {fileID: 2100000, guid: d2b39983e3bbf154786aac0d5289b71a, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Estructura
-    second: {fileID: 4141680783641707120, guid: 78317b5ad23db5244af772a014af83b2, type: 3}
+    second: {fileID: 2100000, guid: bac831ad3f10d324b9c1442b9548fc24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Estructura.001
+    second: {fileID: 2100000, guid: bac831ad3f10d324b9c1442b9548fc24, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: JackUp
-    second: {fileID: 4110590784864851545, guid: 78317b5ad23db5244af772a014af83b2, type: 3}
+    second: {fileID: 2100000, guid: 5454a7122c1ec434e8f03f8811d2414a, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: MISCELLANEOUS_POR SPP.001
-    second: {fileID: 9142476395204734530, guid: 78317b5ad23db5244af772a014af83b2, type: 3}
+    second: {fileID: 2100000, guid: 5fef7b561a108cb41a6c0317e4cf2596, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -51,7 +56,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: PoleaMat
-    second: {fileID: -157942245330937887, guid: 78317b5ad23db5244af772a014af83b2, type: 3}
+    second: {fileID: 2100000, guid: bac831ad3f10d324b9c1442b9548fc24, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -76,32 +81,37 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: RodilloMat
-    second: {fileID: 5705736787795858587, guid: 78317b5ad23db5244af772a014af83b2, type: 3}
+    second: {fileID: 2100000, guid: 6e875fecd9d67714f9ddbc916060c248, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: RojoMetalFaena
-    second: {fileID: 2380983317337578531, guid: 78317b5ad23db5244af772a014af83b2, type: 3}
+    second: {fileID: 2100000, guid: 6e875fecd9d67714f9ddbc916060c248, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: STEEL_A53
-    second: {fileID: 2896520929097723159, guid: 78317b5ad23db5244af772a014af83b2, type: 3}
+    second: {fileID: 2100000, guid: 01a3010571834c347a9491c802ddcc33, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: STEEL_Baranda
-    second: {fileID: 7451184712478895304, guid: 78317b5ad23db5244af772a014af83b2, type: 3}
+    second: {fileID: 2100000, guid: 01a3010571834c347a9491c802ddcc33, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: STEEL_PP
-    second: {fileID: 2100000, guid: c9eb13a5377f4cf4cb47fc01b61bcc5f, type: 2}
+    second: {fileID: 2100000, guid: 01a3010571834c347a9491c802ddcc33, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Soportes
-    second: {fileID: -8781691688130534911, guid: 78317b5ad23db5244af772a014af83b2, type: 3}
+    second: {fileID: 2100000, guid: bac831ad3f10d324b9c1442b9548fc24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Soportes.001
+    second: {fileID: 2100000, guid: bac831ad3f10d324b9c1442b9548fc24, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -116,7 +126,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Undefined_SAE1045
-    second: {fileID: -6290217729984177317, guid: 78317b5ad23db5244af772a014af83b2, type: 3}
+    second: {fileID: 2100000, guid: 01a3010571834c347a9491c802ddcc33, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -126,7 +136,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: VigasNuevasDM
-    second: {fileID: -870057474487973668, guid: 78317b5ad23db5244af772a014af83b2, type: 3}
+    second: {fileID: 2100000, guid: 01a3010571834c347a9491c802ddcc33, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
