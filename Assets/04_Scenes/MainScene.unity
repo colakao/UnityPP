@@ -8323,15 +8323,15 @@ MonoBehaviour:
   slider: {fileID: 429989760}
   animatorObjects:
   - anim: {fileID: 2025791475}
-    startFrame: 0
+    startFrame: 1250
   - anim: {fileID: 1509503940}
     startFrame: 1
   - anim: {fileID: 1082172714}
-    startFrame: 3450
+    startFrame: 7400
   - anim: {fileID: 906570946}
-    startFrame: 4562
-  - anim: {fileID: 1090896692}
     startFrame: 0
+  - anim: {fileID: 1090896692}
+    startFrame: 4011
   - anim: {fileID: 486888832}
     startFrame: 0
   - anim: {fileID: 334377598}

@@ -21,12 +21,17 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: STEEL_PP
-    second: {fileID: 2100000, guid: c9eb13a5377f4cf4cb47fc01b61bcc5f, type: 2}
+    second: {fileID: 307611266985043866, guid: ec87945535be318419771a2e85977b06, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: STEEL_PP.001
+    second: {fileID: 307611266985043866, guid: ec87945535be318419771a2e85977b06, type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: STEEL_PP.002
-    second: {fileID: 2100000, guid: c9eb13a5377f4cf4cb47fc01b61bcc5f, type: 2}
+    second: {fileID: 307611266985043866, guid: ec87945535be318419771a2e85977b06, type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
